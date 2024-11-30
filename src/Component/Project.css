@@ -1,0 +1,17 @@
+.projects {
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .project-list {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+  }
+  
+  .project {
+    border: 1px solid #ccc;
+    padding: 1rem;
+    width: 200px;
+  }
+  
